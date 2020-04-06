@@ -1,0 +1,76 @@
+body {
+    padding-left: 100px;
+    padding-right: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 25px;
+    text-align: center;
+    background-color: white;
+    color: grey;
+    padding: 0px;
+    word-wrap: break-word;
+}
+
+.navigationmenu {
+    color: white;
+    text-align: center;
+    margin: auto;
+    text-transform: capitalize;
+    font-size: x-small;
+    letter-spacing: 10px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    background-color: black;
+    padding: 30px;
+}
+
+.navigationmenu a {
+    letter-spacing: 0;
+    color: white;
+    margin: 0 20px 0 20px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.navigationmenu a:hover {
+    color: rgb(126, 126, 126);
+}
+    
+.levoyage {
+    padding-left: 300px;
+    padding-right: 300px;
+    text-align: justify;
+}
+
+#couverture {
+    width: 100%;
+}
+
+#footer {
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    background-color: black;
+    padding: 30px;
+    margin: auto;
+}
+
+#imagedegarde {
+    width: 58%;
+}
+
+.hotel {
+    border: 1px;
+    background-color: rgb(243, 239, 239);
+}
+
+.photoslieux {
+    display: block;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+
+.photo {
+    width: 30%;
+}
